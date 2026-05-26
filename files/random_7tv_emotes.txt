@@ -1,6 +1,8 @@
 :3
 :stare:
 !fish
+!guess
+!join
 !lurk
 ?
 ????
@@ -18,6 +20,7 @@ AlienGathering
 AlienPls
 AlienRave
 ALO
+ALOO
 alzara
 android
 antiquarianWalk
@@ -32,10 +35,12 @@ Aware
 Awkward
 awoo
 AYOOO
+b0unttty
 babyJAM
 BabyRave
 Backseat
 Backseating
+bah
 balls
 Banana
 Banger
@@ -65,6 +70,7 @@ Bozo
 Bozo2
 BRUH
 buh
+buhguette
 bunelame
 Businessgi
 buub
@@ -89,10 +95,13 @@ catJam
 catJAM
 catJAMPARTY
 catKISS
+catNOD
+catPls
 catRave
 catsittingverycomfortablecute
 catsittingverycomfortablegaming
 catsSit
+catt
 CatTime
 Caught
 CAUGHT
@@ -103,9 +112,7 @@ chatting
 Chatting
 CheesedToMeetYou
 Chillin
-cinema
 Cinema
-CINEMA
 Clap
 classic
 cleanrat
@@ -114,6 +121,7 @@ ClownDance
 Clueless
 Coffeege
 colorblind
+Concerned
 consoleCD
 COOKED
 cooking
@@ -125,13 +133,16 @@ cowouncil
 Creepin
 D:
 damn
+danse
 dansi
 DavidWall
+DavidWokege
 DDdrunk
 dead
 Deadeg
 Deadge
 Deadlole
+deal
 Delusional
 deluxe
 demoPls
@@ -184,6 +195,7 @@ ELPERMASSACRE
 EntireShrekMovie
 er
 ErmIDontThinkSo
+essaying
 eww
 EZ
 fall
@@ -201,6 +213,7 @@ floco
 Flushed
 FluteTime
 fly
+forsenCD
 frenn
 frog
 fuck
@@ -211,6 +224,7 @@ GAMBA
 GAMBA2
 gambabert
 GATHER
+gato
 gg
 GIGACHAD
 GivenUp
@@ -240,6 +254,7 @@ glorpSparkle
 glorptosis
 glort
 Glueless
+gn
 GOLD
 goosePls
 gooseRave
@@ -252,6 +267,7 @@ gustavo
 guuh
 guuut
 HACKERMANS
+haha
 HAHAHA
 Halt
 Handshakege
@@ -270,6 +286,7 @@ Hi
 highwayman
 hmm
 Hmm
+Hmmge
 Hmmm
 hmmMeeting
 Hmmmm
@@ -289,6 +306,7 @@ hydrate
 HYPERDANCINGTRIANGLE
 HyperDiscoDog
 HYPERS
+IAsk
 ICANT
 iguessbro
 ilavu
@@ -306,6 +324,7 @@ Joel
 jorkin
 jorkintogether
 juh
+jupijej
 kacky
 Kapp
 kat
@@ -321,6 +340,7 @@ KermitAscend
 KermitJump
 kermitPls
 kok
+kyrio
 kyrios
 KYRIOSBOZO
 L
@@ -338,6 +358,7 @@ Life
 lildans
 listening
 Listening
+LiveReaction
 LO
 loading
 LOADING
@@ -364,10 +385,13 @@ MathTime
 maxwell
 MAXWELL
 maxwin
+MeAndTheHomiesWatching
+meandyou
 melons
 meow
 meowsic
 mhm
+MHMM
 microwaveBooba
 Minecraft
 mitosis
@@ -386,7 +410,6 @@ monkaHmm
 monkaLaugh
 monkaLead
 monkaSTEER
-monkaSTRESS
 monkaW
 MONKE
 monkeVibe
@@ -394,9 +417,11 @@ monkeyPls
 monSTEER
 Monster
 MonsTime
+moo
 muted
 MYAA
 mybad
+MyBad
 NAHH
 NAHHH
 nerd
@@ -411,8 +436,8 @@ NODDERS
 NoElp
 noLife
 NoNo
+NOOO
 NOOOO
-NOOOOvanish
 noSee
 Nostalgia
 NotAllowed
@@ -427,6 +452,7 @@ NOWAY
 NOWAYING
 nowoted
 nt
+nuhuh
 nuke
 NUKE
 o7
@@ -435,6 +461,7 @@ OFC
 OFFLINE
 OFFLINECHAT
 oh
+ohmies
 OhNo
 ok
 okak
@@ -448,6 +475,7 @@ omE
 OmegaBounce
 OMEGALUL
 OMEGALULiguess
+OMEGALULiguess2
 ono
 OOOO
 oopsie
@@ -459,12 +487,14 @@ OwO
 owoCheer
 OWOERS
 owoL
+owomies
 owoSpin
 Pag
 PagMan
 PAGMANDANCEBUTFAST
 Painsge
 patrick
+Patrick
 PATRICK
 PauseChamp
 Peace
@@ -509,6 +539,7 @@ peepoShy
 peepoSitGamer
 peepoSitStarege
 peepoSleep
+PeepoSleepNetherExplode
 peepoTikTok
 pelle
 PENIS
@@ -539,12 +570,14 @@ PinkieSWAG
 pistol
 plank
 please
+PLEASE
 plenk
 plink
 plonk
 Pog
 Pog2
 POGGERS
+POGGIES
 PogO
 POGSLIDE
 POGSLIDECOGSLIDE
@@ -560,8 +593,10 @@ Prayge
 preLOL
 ptn
 pugPls
+puh
 punch
 pushup
+qq
 qui
 ragebait
 RAGEY
@@ -593,6 +628,7 @@ SCATTER
 SCHIZO
 scooter
 scout
+scrajj
 secretge
 SEXO
 SHEEESH
@@ -610,6 +646,7 @@ Slap
 Smadge
 SmadgeBusiness
 smh
+Smile
 smirk
 Smoge
 SmugCat
@@ -617,6 +654,8 @@ SNIFFA
 sokitrist
 Sonic
 SoyPoint
+SpeedL
+SpeedR
 SPERG
 spongePls
 Stair
@@ -627,7 +666,7 @@ Starege
 SteerL
 stinkyStare
 StreamerDoesntKnow
-stress
+Stress
 STRETCH
 stripp
 sus
@@ -640,6 +679,7 @@ tbh
 THAT
 TheVoices
 Thinking
+THIS
 throwing
 tiktokbrain
 Time
@@ -654,12 +694,15 @@ triangRave
 triangSpin
 triangWide
 triangWideRave
+tuckk
+TUCKK
 Turtle
 turtling
 UltraMad
 UltraNerd
 um
 uuh
+uuhguette
 variety
 veganarmor
 vibe
@@ -672,6 +715,7 @@ virtuous
 vp
 vu
 W
+waga
 wahoo
 WAIT
 Waiting
@@ -688,7 +732,7 @@ WeirdChamp
 Weirdga
 Weirdge
 Weirdgi
-WetCat
+wet
 WHAT
 where
 WhoAsked
@@ -719,6 +763,7 @@ Yekking
 YEKsit
 YEO
 YEP
+YEPLOUD
 YEPPERS
 YeppersRapThis
 YesHoney
@@ -732,8 +777,10 @@ YOE
 Yoink
 youdied
 YOUDIED
+YOURMOM
 YP
 YPE
+YUH
 ZACK
 zyzzRave
 zzz
