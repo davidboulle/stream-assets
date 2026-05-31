@@ -1,1 +1,1 @@
-Each time you gain <:Souls:1382752597911408719> adds `200` to that value (x5 max).
+Each time you gain <:Souls:1382752597911408719>, adds `200` to that value (x5 max).
