@@ -1,0 +1,1 @@
+Each time you gain Souls adds 50 to that value (x10 max).
